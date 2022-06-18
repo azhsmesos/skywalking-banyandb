@@ -32,6 +32,7 @@ require (
 )
 
 require (
+	github.com/emirpasic/gods v1.18.1
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.10.3
 	github.com/hashicorp/golang-lru v0.5.4
 	github.com/prometheus/client_golang v1.12.2
